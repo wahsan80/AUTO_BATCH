@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-13T15:17:24 EST" name="Default suite" finished-at="2022-11-13T15:17:39 EST" duration-ms="14915">
+    <groups>
+    </groups>
+    <test started-at="2022-11-13T15:17:24 EST" name="Default test" finished-at="2022-11-13T15:17:39 EST" duration-ms="14915">
+      <class name="nov13_Session.Rediff_Recording">
+        <test-method signature="test()[pri:0, instance:nov13_Session.Rediff_Recording@209da20d]" started-at="2022-11-13T15:17:24 EST" name="test" finished-at="2022-11-13T15:17:34 EST" duration-ms="9919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test()[pri:0, instance:nov13_Session.Rediff_Recording@209da20d]" started-at="2022-11-13T15:17:34 EST" name="test" finished-at="2022-11-13T15:17:39 EST" duration-ms="4962" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- nov13_Session.Rediff_Recording -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
